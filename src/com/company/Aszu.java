@@ -1,8 +1,9 @@
 package com.company;
 
 /**
- * A Aszu osztály a Bor osztály leszármazottja és egy specifikus bortipus tárolására
- * lett létrehozva, ezért van puttony attributuma ami csak az Aszúra jellemző.
+ * A Aszu osztály a Bor osztály leszármazottja és egy specifikus bortipus tárolására lett létrehozva, ezért van puttony attributuma ami csak az Aszúra jellemző.
+ *
+ * @author egrid
  */
 public class Aszu extends Bor {
 

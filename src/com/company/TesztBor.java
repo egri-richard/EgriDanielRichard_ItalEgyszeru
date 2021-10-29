@@ -1,8 +1,9 @@
 package com.company;
 
 /**
- * Futtatható osztály, amire a többi osztályban létrehozott funkciók tesztelése
- * miatt van szükség.
+ * Futtatható osztály, amire a többi osztályban létrehozott funkciók tesztelése miatt van szükség.
+ *
+ * @author egrid
  */
 public class TesztBor {
 
