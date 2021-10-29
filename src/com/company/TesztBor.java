@@ -1,5 +1,9 @@
 package com.company;
 
+/**
+ * Futtatható osztály, amire a többi osztályban létrehozott funkciók tesztelése
+ * miatt van szükség.
+ */
 public class TesztBor {
 
     public static void main(String[] args) {

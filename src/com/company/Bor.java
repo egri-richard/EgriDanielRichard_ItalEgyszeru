@@ -1,5 +1,9 @@
 package com.company;
 
+/**
+ * A bor osztály a borok fajtáját és évjáratát tartalmazza és
+ * ezek az attributumok kiiratására is képes.
+ */
 public class Bor {
 
     private String fajta;
