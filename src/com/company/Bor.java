@@ -28,6 +28,6 @@ public class Bor {
 
     @Override
     public String toString() {
-        return "A bor fajtája: " +fajta+ ", évjárata: " +evjarat;
+        return "BOR: fajta: " +fajta+ ", évjárat: " +evjarat;
     }
 }
